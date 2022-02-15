@@ -6,5 +6,5 @@ Technical project1 Big Data Analytics
  ## STEP 2
  Load the ipynb file to databricks and create a cluster to run the codes 
 
-#Description 
+##Description 
 The project includes the analysis and prediction of Wales road accidents on basis of various features that affects the same.
